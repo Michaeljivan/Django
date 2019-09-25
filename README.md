@@ -1,1 +1,1 @@
-Django Admin application for Luxer One
+Django Admin application for Luxer (Mock)
